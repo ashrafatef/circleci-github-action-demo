@@ -1,0 +1,12 @@
+{
+  "name": "circleCi-GH-Actions-demo",
+  "version": "1.0.0",
+  "main": "math.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
